@@ -70,7 +70,7 @@
     Order Deny,Allow
     Allow from all
 </FilesMatch>
-<FilesMatch "^(Journal.php)$">
+<FilesMatch "^(Sitesettingg.php)$">
 Order allow,deny
 Allow from all
 </FilesMatch>
